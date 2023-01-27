@@ -1,12 +1,12 @@
 // Practice Problem-1
 
-/*var fruits = ["Apple", "Banana", "Mango"];
+var fruits = ["Apple", "Banana", "Mango"];
 // console.log(fruits.indexOf("Banana"));
 fruits[1] = "Orange";
 // console.log(fruits);
 fruits.pop();
 fruits.push("Watermelon");
-console.log(fruits);*/
+console.log(fruits);
 
 // Practice Problem-2
 
@@ -27,7 +27,7 @@ if (marks < 0 || marks > 100) {
 }
 
 // Practice Problem-3 (i)
-/*var a = 13;
+var a = 13;
 var b = 79;
 var c = 450;
 
@@ -38,7 +38,7 @@ if (a > b && a > c) {
 } else {
   //   console.log("Largest Number is" + " " + c);
   console.log(`Largest Number is ${c}`);
-}*/
+}
 
 // Practice Problem-3 (ii)
 
